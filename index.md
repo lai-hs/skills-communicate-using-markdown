@@ -5,3 +5,6 @@
 # <h5>2<h5>
 # <h6>1<h6>
 ![美女](https://github.com/user-attachments/assets/d2a3cb9c-fdf2-4c94-a047-e1868be531a0)
+``` javascript
+var myVar = "Hello, world!";
+```
